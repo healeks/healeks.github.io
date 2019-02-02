@@ -13,7 +13,7 @@ Hi, im healeks and im here to improve my programming skills.
 
 ### Projects
 
-* - 
+* 
 
 ![Image](http://awallpapershub.com/wp-content/uploads/2018/05/Rick-and-Morty-Wallpapers.jpg)
 
