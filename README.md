@@ -1,4 +1,4 @@
-# Welcome earthlings
+# Welcome earthlings and other species
 
 I´m healeks and im here to improve my programming skills.
 
