@@ -1,4 +1,4 @@
-## Welcome 
+## Welcome :sunny:
 
 Hi, im healeks and im here to improve my programming skills.
 
@@ -11,8 +11,10 @@ Hi, im healeks and im here to improve my programming skills.
 - [ ] get an job as programmer
 - [ ] ??? 
 
+### Projects
+
+* - 
 
 ![Image](http://awallpapershub.com/wp-content/uploads/2018/05/Rick-and-Morty-Wallpapers.jpg)
-
 
 
