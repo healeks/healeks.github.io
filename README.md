@@ -1,17 +1,17 @@
-## Welcome :sunny:
+# Welcome earthlings
 
 Hi, im healeks and im here to improve my programming skills.
 
 [Feel free to visit my GitHub Page](https://github.com/healeks) 
 
-### What is my plan?
+## What is my plan?
 
 - [x] learn how GitHub works
 - [ ] start working on projects
 - [ ] get an job as programmer
 - [x] connect to the universe
 
-### Projects
+## Projects
 
 * 
 
