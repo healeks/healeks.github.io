@@ -9,7 +9,7 @@ Hi, im healeks and im here to improve my programming skills.
 - [x] learn how GitHub works
 - [ ] start working on projects
 - [ ] get an job as programmer
-- [ ] ??? 
+- [x] connect to the universe
 
 ### Projects
 
