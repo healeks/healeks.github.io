@@ -2,7 +2,7 @@
 
 Hi, im healeks and im here to improve my programming skills.
 
-[Feel free to visit my Github Page](https://github.com/healeks) 
+[Feel free to visit my GitHub Page](https://github.com/healeks) 
 
 ### What is my plan?
 
