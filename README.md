@@ -8,12 +8,12 @@ Hi, im healeks and im here to improve my programming skills.
 
 - [x] learn how GitHub works
 - [ ] start working on projects
-- [ ] get an job as programmer
+- [ ] get a job as programmer
 - [x] connect to the universe
 
 ## Projects
 
-* 
+* Wait here Morty
 
 ![Image](http://awallpapershub.com/wp-content/uploads/2018/05/Rick-and-Morty-Wallpapers.jpg)
 
