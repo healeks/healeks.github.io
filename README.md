@@ -2,7 +2,7 @@
 
 My name is aleks and I am here to improve my programming skills.
 
-[Feel free to visit my GitHub Page](https://github.com/healeks) 
+[Feel free to visit my GitHub page.](https://github.com/healeks) 
 
 ## What's the plan?
 
