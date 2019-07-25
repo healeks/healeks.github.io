@@ -1,20 +1,20 @@
 ## Welcome earthlings and other species
 
-I´m healeks and I am here to improve my programming skills.
+I´m aleks and I am here to improve my programming skills.
 
 [Feel free to visit my GitHub Page](https://github.com/healeks) 
 
-## What is my plan?
+## What's the plan?
 
-- [x] learn how GitHub works
-- [ ] start working on projects
-- [ ] get a job as programmer
+- [x] learn how to use github
+- [ ] work on live projects
+- [ ] get a programming job
 - [x] connect to the universe
 
 ## Projects
 
-* Wait here Morty
+* coming soon
 
-![Image](http://awallpapershub.com/wp-content/uploads/2018/05/Rick-and-Morty-Wallpapers.jpg)
+![Image](https://archive-media-0.nyafuu.org/wg/image/1377/55/1377550648332.jpg)
 
 
