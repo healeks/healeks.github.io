@@ -1,6 +1,6 @@
 ## Welcome earthlings and other species
 
-I´m aleks and I am here to improve my programming skills.
+My name is aleks and I am here to improve my programming skills.
 
 [Feel free to visit my GitHub Page](https://github.com/healeks) 
 
